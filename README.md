@@ -1,3 +1,4 @@
+remote
 # git-study
 
 git勉強中
